@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+yarn.lock
+artifacts/
+cache/
+crytic-export/
+node_modules/
+typechain/
